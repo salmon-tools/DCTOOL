@@ -117,7 +117,7 @@ namespace DiscordTools
             Console.WriteLine("██║  ██║██║         ██║   ██║   ██║██║   ██║██║      ");
             Console.WriteLine("██████╔╝╚██████╗    ██║   ╚██████╔╝╚██████╔╝███████╗");
             Console.WriteLine("╚═════╝  ╚═════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝");
-            Console.WriteLine("                                  Made By @boywithuke.fam on discord    ");
+            Console.WriteLine("                                  Made By Squishyguy232    ");
             Console.WriteLine("\n1. Send Webhook Message");
             Console.WriteLine("2. Webhook Spammer");
             Console.WriteLine("3. Webhook Deleter");
