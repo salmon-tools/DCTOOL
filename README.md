@@ -1,1 +1,1 @@
-download the .exe, you can also check program.cs to know i am not tryna hack you.
+download the .exe, the code is in the .cs
