@@ -1,5 +1,4 @@
-download the .exe, the code is in the .cs
-
+download the zip,run the .exe
 
 Warning: This code is intended for educational and research purposes only and should only be used in environments where users have explicit permission. Misuse of these tools could have negative consequences, and the author(s) are not responsible for any illegal or unethical use. Users must comply with all applicable laws and regulations and are solely responsible for ensuring their lawful use. The author(s) disclaim any liability for direct, indirect, incidental, consequential, or special damages arising from the use or misuse of this code. By using this code, you agree to these terms.
 
